@@ -14,7 +14,7 @@ function evenOdd(userInput) {
 }
 
 
-//Try out your function here.
+// Try out your function here.
 evenOdd(4);
 evenOdd(3);
 evenOdd(27);
