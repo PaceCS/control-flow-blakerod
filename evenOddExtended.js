@@ -22,7 +22,7 @@ function evenOddExtended(userInput) {
 }
 
 
-//Try out your function here.
+// Try out your function here.
 evenOddExtended(4);
 evenOddExtended(3);
 evenOddExtended(3.1);
